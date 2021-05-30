@@ -1,5 +1,5 @@
 
-package Classe.Aluno;
+package Pacote.Classe.Aluno;
 
 
 public class Aluno {

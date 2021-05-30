@@ -1,6 +1,8 @@
-package Classe.Teste;
+//estudo de pacotes em java
 
-import Classe.Aluno.Aluno;
+package Pacote.Classe.Teste;
+
+import Pacote.Classe.Aluno.Aluno;
 
 public class Matricular {
     
